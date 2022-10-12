@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
+<h1 align="center">Hi 👋 I'm Kevin 👨🏼‍💻</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l3chit" alt="l3chit" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l3chit&theme=darkhub&margin-w=15&no-frame=true" alt="l3chit" /></a> </p>
 
 - 🔭 I’m currently working on **my skills**
 
