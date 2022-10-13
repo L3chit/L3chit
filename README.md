@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [projects](https://github.com/L3chit?tab=repositories)
 
-- 📫 How to reach me [**contact@l3chit.dev**](mailto:contact@l3chit.dev)
+- 📫 How to reach me **contact@l3chit.dev**
 
 - 📄 Know about my experiences [l3chit.dev](https://l3chit.dev)
 
