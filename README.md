@@ -29,3 +29,7 @@
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning life
 --->
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@l3chit/30-nites-of-code)  
+  ![@l3chit #30NitesOfCode](https://www.codedex.io/api/petStatus?user=l3chit)
