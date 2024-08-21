@@ -23,13 +23,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=l3chit&show_icons=true&theme=dark&locale=en&layout=compact" alt="l3chit" /></p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=l3chit&label=Profile%20views&color=0e75b6&style=flat" alt="l3chit" /> </p>
-
-<!---
-- 👋 Hi, I’m @L3chit
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning life
---->
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@l3chit/30-nites-of-code)  
-  ![@l3chit #30NitesOfCode](https://www.codedex.io/api/petStatus?user=l3chit)
